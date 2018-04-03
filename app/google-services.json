@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622867769208",
+    "firebase_url": "https://drep-81e19.firebaseio.com",
+    "project_id": "drep-81e19",
+    "storage_bucket": "drep-81e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622867769208:android:0744d05f28a74ea1",
+        "android_client_info": {
+          "package_name": "com.example.shino.drep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622867769208-30062h45hqqiehndo2kncphdf2b3jd6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlvDmtLI_TpogitzVIuqajC5eU9c68QM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
